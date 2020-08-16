@@ -1,0 +1,12 @@
+{
+  "name": "poc-build-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sh .build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
